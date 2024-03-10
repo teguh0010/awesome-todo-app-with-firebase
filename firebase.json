@@ -11,6 +11,32 @@
         "source": "**",
         "destination": "/index.html"
       }
+    ],
+    "headers": [
+      {
+        "key": "VITE_FIREBASE_API_KEY",
+        "value": "AIzaSyBz1D8N4yPMOPM2xpicDJ9r2eLCul-RW18"
+      },
+      {
+        "key": "VITE_FIREBASE_APP_ID",
+        "value": "1:43149801739:web:f7ad65cb926a7b8de00a0e"
+      },
+      {
+        "key": "VITE_FIREBASE_AUTH_DOMAIN",
+        "value": "familly-app-8c4ad.firebaseapp.com"
+      },
+      {
+        "key": "VITE_FIREBASE_MESSAGING_SENDER_ID",
+        "value": "43149801739"
+      },
+      {
+        "key": "VITE_FIREBASE_PROJECT_ID",
+        "value": "familly-app-8c4ad"
+      },
+      {
+        "key": "VITE_FIREBASE_STORAGE_BUCKET",
+        "value": "familly-app-8c4ad.appspot.com"
+      }
     ]
   }
 }
