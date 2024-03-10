@@ -1,0 +1,15 @@
+[
+    {
+        "origin": [
+            "https://famylly-app2.netlify.app/"
+        ],
+        "method": [
+            "GET",
+            "POST"
+        ],
+        "responseHeader": [
+            "Content-Type"
+        ],
+        "maxAgeSeconds": 3600
+    }
+]
